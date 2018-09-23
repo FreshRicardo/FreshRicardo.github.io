@@ -8,7 +8,7 @@ author_profile: true
 
 * Love classical music and soft music, especially composed by Beethoven and Hisaishi Jō.
 
-* Show great interests in street tide brand. Supereme, Palace, Yeezy...
+* Show great interests in street tide brand. Supreme, Palace, Yeezy...
 
 * Skiing and swimming.
 
