@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="http://freshricardo.github.io/files/boy.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="http://freshricardo.github.io/files/boy.png?raw=true" alt="Photo" style="width: 250px;"/> 
 </p>
 
 * I am now a junior student in the [Computer Science Department](http://cs.dlut.edu.cn) at [Dalian University of Technology](https://www.dlut.edu.cn) starting from Autumn 2015. Click [here](http://freshricardo.github.io/files/cv.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to [contact me](http://freshricardo.github.io.com/contact/).
